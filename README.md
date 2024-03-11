@@ -59,3 +59,9 @@
 | stepik.org/Программирование на Python                           | 04/2022 - 03/2022 |
 
 
+### GitHub статистика:
+
+  <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=catchme24&layout=compact&theme=vision-friendly-dark" />
+
+
+
