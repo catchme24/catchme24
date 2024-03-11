@@ -4,7 +4,7 @@
 
 Я начинающий веб разработчик. Познакомился с веб программированием в конце 2022 года в магистратуре по специальности "Информатика и вычислительная техника", где из всего перечня областей программирования от data science до machine learning меня зацепила именно веб разработка :) Изучаю, как frontend технологии, так и backend, но с большним уклоном на backend на языке Java :)
 
-Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-roslyakovsemen-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:roslyakov119@gmail.com)
+Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-roslyakovsemen-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/icatchme) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:roslyakov119@gmail.com)
 
 ---
 
